@@ -48,6 +48,7 @@
 					<option>Dutch</option>
 					<option>Indo</option>
 					<option>Viet</option>
+					<option>Laos</option>
 				</select>
 			</div>
 			<br /> <input type="submit" value="Submit" />
