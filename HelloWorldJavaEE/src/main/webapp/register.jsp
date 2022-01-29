@@ -47,7 +47,7 @@
 					<option>Malay</option>
 					<option>Dutch</option>
 					<option>Indo</option>
-					<option>Taiwan</option>
+					<option>Tagalog</option>
 				</select>
 			</div>
 			<br /> <input type="submit" value="Submit" />
