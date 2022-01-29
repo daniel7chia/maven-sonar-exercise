@@ -41,6 +41,7 @@
 					<option>Hindi</option>
 					<option>English</option>
 					<option>French</option>
+					<option>German</option>
 				</select>
 			</div>
 			<br /> <input type="submit" value="Submit" />
