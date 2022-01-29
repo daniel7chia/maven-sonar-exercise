@@ -42,6 +42,7 @@
 					<option>English</option>
 					<option>French</option>
 					<option>German</option>
+					<option>Japanese</option>
 				</select>
 			</div>
 			<br /> <input type="submit" value="Submit" />
