@@ -51,6 +51,7 @@
 					<option>Laos</option>
 					<option>Italian</option>
 					<option>Cambodian</option>
+					<option>African</option>
 				</select>
 			</div>
 			<br /> <input type="submit" value="Submit" />
