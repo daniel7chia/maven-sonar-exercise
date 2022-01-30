@@ -54,6 +54,7 @@
 					<option>African</option>
 					<option>Brazilian</option>
 					<option>Hawaiian</option>
+					<option>Polish</option>
 				</select>
 			</div>
 			<br /> <input type="submit" value="Submit" />
