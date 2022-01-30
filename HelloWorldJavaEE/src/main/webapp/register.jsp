@@ -49,7 +49,7 @@
 					<option>Indo</option>
 					<option>Tagalog</option>
 					<option>Laos</option>
-					<option>Cambodia</option>
+					<option>Italian</option>
 				</select>
 			</div>
 			<br /> <input type="submit" value="Submit" />
