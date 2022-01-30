@@ -47,7 +47,7 @@
 					<option>Malay</option>
 					<option>Dutch</option>
 					<option>Indo</option>
-					<option>Viet</option>
+					<option>Tagalog</option>
 					<option>Laos</option>
 					<option>Italian</option>
 				</select>
